@@ -22,7 +22,7 @@ of the billionaire population?_
 
  _3. Is there a linear relationship between a billionaire's age at the time of data collection and their final net worth? In other words, does age correlate with wealth for billionaires in 2023?_
 
-  ### Key Features
-  In this project, we demonstrate various analyt
+  ### Tool (R Programming)
+  In this project, we used the R programming language to analyze and generate insight from the dataset. In this analysis we employ the following libraries in R to perform EDA (Exploratory Data Analysis) and answer critical resrach questions. These libraries are:
 
 
