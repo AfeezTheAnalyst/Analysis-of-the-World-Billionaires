@@ -39,6 +39,24 @@ of the billionaire population?_
   * Standdard Deviation
   * Correlation and Regresion Analysis
   * Plots (Bar chart, Scatter plot, Histogram)
+  * Handling Missing Values
+  * Proportion Calculations
+  * EDAs
+    
+We started connecting R console to our datasets, and display some of the data using the "**Head** and the **View** function:  
+
+![Connecting to datasets](https://github.com/AfeezTheAnalyst/Analysis-of-the-World-Billionaires/blob/main/Connecting%20to%20Datasets.png)
+
+Datasets Description Pane  
+
+![View dataset descriptions](https://github.com/AfeezTheAnalyst/Analysis-of-the-World-Billionaires/blob/main/View%20data%20descriptions.png)  
+
+
+From this view we can see that our primary file contains 2,640 observations with 35 variables and our secondary dataset is made uo of 22 observations with 4 variables.
+
+
+
+Data cleansing is an essential part of data analhytics to generate insight from any datasets. On this project, we star
   
 
 
