@@ -82,3 +82,15 @@ tend to be in their mid-60s.
 **==>>** Approximately 12.76% of billionaires are female, while around 87.23% are male. This means that the majority of billionaires in 2023 are male, with female makes up a smaller proportion of the billionaire population.  
 
 **==>>** A correlation of 0.06695056 indicates a very weak, positive relationship between age and final net worth among billionaires in your dataset, and it does not provide much predictive power or explanatory value for final net worth based on age.
+
+
+  ### Link to external resources:
+
+**Link to dataset here:**  
+[Connect to the datasets here on Kaggle here](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
+
+**Link to Source Code in R:**
+[Link to Source Code in R](https://github.com/AfeezTheAnalyst/Analysis-of-the-World-Billionaires/blob/main/Billionaires%20Analysis%202023..R)
+
+**Analysis Report:**
+[Analysis Report](https://github.com/AfeezTheAnalyst/Analysis-of-the-World-Billionaires/blob/main/Billionaire%20Analysis%20(Report).pdf)
