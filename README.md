@@ -21,6 +21,7 @@ Link to dataset here:
  _2. What is the distribution of the gender of billionaires in 2023? What is the gender makeup of the billionaire population?_  
 
  _3. Is there a linear relationship between a billionaire's age at the time of data collection and their final net worth? In other words, does age correlate with wealth for billionaires in 2023?_
+
 ---
 
   ### Tool (R Programming)
@@ -63,9 +64,11 @@ From this view we can see that our primary file contains 2,640 observations with
 **_Variable name after cleansing:_** 
 
 ---
+
 ![](https://github.com/AfeezTheAnalyst/Analysis-of-the-World-Billionaires/blob/main/Varriable_names%20After_cleansing.png)
 
 Data cleansing is an essential part of data analhytics to generate insight from any datasets. On this project, I cleaned the variable names using the "Clean name"
+
 ---
  ### **_Analysis of Research Questions:_** 
 _Research Question 1:_  
